@@ -46,3 +46,10 @@ print('\n')
 print(type([1,2,3]))
 print(type(8))
 print(type({1,2,3}))
+
+a = 20
+b = 19.7
+c = "Neha"
+print(type(a))
+print(type(b))
+print(type(c))
