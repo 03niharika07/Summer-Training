@@ -29,3 +29,9 @@ print('''Hello
 Niharika here !!''')      
 print("""Hyyy
 Have a nice day !""")
+
+# Comments 
+
+# Single line comment
+"""Multi line comments"""
+'''Multi line comments'''
