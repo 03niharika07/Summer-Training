@@ -35,3 +35,6 @@ Have a nice day !""")
 # Single line comment
 """Multi line comments"""
 '''Multi line comments'''
+
+# Compilation - converting code to binary language
+# Compilation process is done by compiler/interpreter
